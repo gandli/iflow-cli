@@ -72,6 +72,11 @@ bash -c "$(curl -fsSL https://cloud.iflow.cn/iflow-cli/install.sh)"
 npm i -g @iflow-ai/iflow-cli
 ```
 
+* Utilisation de Homebrew (macOS uniquement)
+```shell
+brew install iflow-ai/iflow-cli
+```
+
 Cette commande installe automatiquement toutes les dépendances nécessaires pour votre terminal.
 
 **Utilisateurs Windows**:

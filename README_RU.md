@@ -67,9 +67,15 @@ iFlow CLI — это мощный ИИ-ассистент, который раб
 ```shell
 bash -c "$(curl -fsSL https://cloud.iflow.cn/iflow-cli/install.sh)"
 ```
+
 * Установка с Node.js
 ```shell
 npm i -g @iflow-ai/iflow-cli
+```
+
+* Использование Homebrew (только для macOS)
+```shell
+brew install iflow-ai/iflow-cli
 ```
 
 Эта команда автоматически устанавливает все необходимые зависимости для вашего терминала.
