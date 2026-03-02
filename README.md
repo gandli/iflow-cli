@@ -74,7 +74,7 @@ npm i -g @iflow-ai/iflow-cli
 ```
 * Using Homebrew (macOS only)
 ```shell
-brew install gandli/tap/iflow-cli
+brew install iflow-ai/tap/iflow-cli
 ```
 
 This command automatically installs all necessary dependencies for your terminal.

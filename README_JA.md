@@ -68,8 +68,18 @@ iFlow CLIは、ターミナル上で直接動作する強力なAIアシスタン
 bash -c "$(curl -fsSL https://cloud.iflow.cn/iflow-cli/install.sh)"
 ```
 * Node.jsを使用したインストール
+
+* Homebrewを使用（macOSのみ）
+```shell
+brew install iflow-ai/tap/iflow-cli
+```
 ```shell
 npm i -g @iflow-ai/iflow-cli
+```
+
+* Homebrewを使用（macOSのみ）
+```shell
+brew install iflow-ai/tap/iflow-cli
 ```
 
 このコマンドにより、ターミナルに必要な依存関係がすべて自動的にインストールされます。
