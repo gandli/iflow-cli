@@ -68,9 +68,15 @@ iFlow CLI 是一款直接在终端中运行的强大 AI 助手。它能够无缝
 ```shell
 bash -c "$(curl -fsSL https://cloud.iflow.cn/iflow-cli/install.sh)"
 ```
+
 * 使用Node.js安装
 ```shell
 npm i -g @iflow-ai/iflow-cli
+```
+
+* 使用Homebrew（仅限macOS）
+```shell
+brew install gandli/tap/iflow-cli
 ```
 
 此命令会自动为您的终端安装所有必要的依赖项。
