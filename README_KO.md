@@ -67,6 +67,12 @@ iFlow CLI는 터미널에서 직접 실행되는 강력한 AI 어시스턴트입
 ```shell
 bash -c "$(curl -fsSL https://cloud.iflow.cn/iflow-cli/install.sh)"
 ```
+
+* Homebrew 설치
+```shell
+brew tap iflow-ai/iflow-cli
+brew install iflow-cli
+```
 * Node.js를 사용한 설치
 ```shell
 npm i -g @iflow-ai/iflow-cli
