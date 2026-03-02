@@ -56,6 +56,9 @@ iFlow CLI 是一款终端AI助手，可以分析代码、执行编程任务、�
 # 一键安装脚本，会安装全部所需依赖
 bash -c "$(curl -fsSL https://gitee.com/iflow-ai/iflow-cli/raw/main/install.sh)"
 
+# 使用 Homebrew 安装（仅限 macOS）
+brew install iflow-ai/iflow-cli
+
 # 已有Node.js 22+
 npm i -g @iflow-ai/iflow-cli@latest
 ```

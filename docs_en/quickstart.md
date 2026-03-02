@@ -57,6 +57,9 @@ bash -c "$(curl -fsSL https://gitee.com/iflow-ai/iflow-cli/raw/main/install.sh)"
 
 # If you already have Node.js 22+
 npm i -g @iflow-ai/iflow-cli@latest
+
+# Using Homebrew (macOS only)
+brew install iflow-ai/iflow-cli
 ```
 
 **Windows**
