@@ -68,10 +68,12 @@ iFlow CLI is a powerful AI assistant that runs directly in your terminal. It sea
 ```shell
 bash -c "$(curl -fsSL https://cloud.iflow.cn/iflow-cli/install.sh)"
 ```
+
 * Using Node.js installation
 ```shell
 npm i -g @iflow-ai/iflow-cli
 ```
+
 * Using Homebrew (macOS only)
 ```shell
 brew install iflow-ai/iflow-cli
